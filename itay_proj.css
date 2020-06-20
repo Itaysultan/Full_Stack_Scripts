@@ -1,0 +1,36 @@
+body{
+font-family: 'Montserrat';
+color: #457B9D;
+text-align: center;
+ background-color: #011627;
+ border: 60px solid #2EC4B6;
+ border-top: 0px;
+ margin: 0px;
+}
+/* why other objects besides body get the font also? and not submit?*/
+
+p{
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+#userinput{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+h2{
+  margin-bottom: 5%;
+}
+
+#sub{
+  font-family: 'Montserrat';
+  border-radius: 25px;
+  height: 80px;
+  width: 150px;
+  font-size: 1.2em;
+  margin-bottom: 4px;
+  background: #E63946;
+
+}
